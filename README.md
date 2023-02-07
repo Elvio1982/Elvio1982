@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Elvio1982
 - 👀 I’m interested in desarrollo 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Elvio1982/Elvio1982 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
